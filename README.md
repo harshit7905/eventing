@@ -26,7 +26,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 # Dependencies(tech-stacks)
-****Client-Side Dependencies:****
+## Client-Side Dependencies
 
 * @clerk/nextjs: Handles authentication and authorization in the browser.
 * @hookform/resolvers: Used for form validation on the client-side.
@@ -46,7 +46,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 * tailwindcss-animate: Enables animations using Tailwind CSS on the client-side.
 * uploadthing: Library related to file uploads (likely used on the client-side).
 
-****Server-Side Dependencies:****
+## Server-Side Dependencies:
 
 * mongodb: Driver for interacting with MongoDB databases (server-side).
 * mongoose: Object Document Mapper (ODM) for MongoDB, used for data modeling on the server.
@@ -55,7 +55,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 * stripe: Library for integrating with Stripe for payments on the server-side (likely for processing payments).
 * zod: Used for data validation on the server-side.
 
-### Functioning of the Project
+# Functioning of the Project
 1. Authentication (CRUD)
 2. Related and Organized Events
 3. Search and Filtering
@@ -64,11 +64,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 6. Payment with Stripe
 7. Order with Search
 
-### Database Model Structure
+# Database Model Structure
 
 ![Eventing_DB_structure](https://github.com/harshit7905/evently/assets/128207336/d86ed86d-9e40-4b0a-a381-d7c680dacb7f)
 
-### Screenshots of this Project
+# Screenshots of this Project
 
 ## 1. Sign in / Sign up
 
