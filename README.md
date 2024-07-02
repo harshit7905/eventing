@@ -70,18 +70,22 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ### Screenshots of this Project
 
-1. Sign in / Sign up
+## 1. Sign in / Sign up
+
 ![sign in](https://github.com/harshit7905/evently/assets/128207336/5678dd03-c646-467d-8b8d-ed0dde036377)
 
-2. Events 
+## 2. Events
+
 ![all events](https://github.com/harshit7905/evently/assets/128207336/f480866d-5122-4a1a-bed9-27500785eb34)
 
-3. Search and Filtering
+## 3. Search and Filtering
+
 ![Search and filtering](https://github.com/harshit7905/evently/assets/128207336/ab24dd6b-1bd7-4850-9373-70755c1b0c5d)
 
-4. Related Events Showing
+## 4. Related Events Showing
+
  ![Related Events](https://github.com/harshit7905/evently/assets/128207336/a76ce136-96bb-417d-94a9-f1ed61a7881a)
 
+## 5. Payment with Stripe
 
-5. Payment with Stripe
 ![payment](https://github.com/harshit7905/evently/assets/128207336/9bf5be0f-8535-413f-b5de-c06456d35931)
