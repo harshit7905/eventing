@@ -80,12 +80,16 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## 3. Search and Filtering
 
-![Search and filtering](https://github.com/harshit7905/evently/assets/128207336/ab24dd6b-1bd7-4850-9373-70755c1b0c5d)
+![Search and filtering](https://github.com/harshit7905/evently/assets/128207336/443cfbc3-cfb8-4ef8-b522-dd5d91401e98)
 
-## 4. Related Events Showing
+## 4. Check Ticket
+
+ ![Related Events](https://github.com/harshit7905/evently/assets/128207336/81da6dfe-3c71-461a-87d8-700b1edc3c6e)
+ 
+## 5. Related Events Showing
 
  ![Related Events](https://github.com/harshit7905/evently/assets/128207336/a76ce136-96bb-417d-94a9-f1ed61a7881a)
 
-## 5. Payment with Stripe
+## 6. Payment with Stripe
 
 ![payment](https://github.com/harshit7905/evently/assets/128207336/9bf5be0f-8535-413f-b5de-c06456d35931)
